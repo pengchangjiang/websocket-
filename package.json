@@ -1,0 +1,24 @@
+{
+  "name": "websocket-",
+  "version": "1.0.0",
+  "description": "c++ websocket 么有成功",
+  "dependencies": {
+    "mqtt": "^2.18.2",
+    "stompjs": "^2.3.3",
+    "websocket": "^1.0.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengchangjiang/websocket-.git"
+  },
+  "author": "pcj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengchangjiang/websocket-/issues"
+  },
+  "homepage": "https://github.com/pengchangjiang/websocket-#readme"
+}
